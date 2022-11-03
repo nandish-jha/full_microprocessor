@@ -1,0 +1,16 @@
+{C:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim/microprocessor.vo} {1 {vlog -work work -stats=none {C:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim/microprocessor.vo}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module microprocessor
+-- Compiling module hard_block
+
+Top level modules:
+	microprocessor
+
+} {} {}} {C:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim/final_exam_test_bench.v} {1 {vlog -work work -stats=none {C:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim/final_exam_test_bench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module final_exam_testbench
+
+Top level modules:
+	final_exam_testbench
+
+} {} {}}
