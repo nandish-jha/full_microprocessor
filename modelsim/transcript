@@ -1,0 +1,93 @@
+# Compile of microprocessor.vo was successful.
+# Compile of final_exam_test_bench.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.final_exam_testbench -L altera_mf_ver -L altera_ver -L cycloneive_ver
+# vsim -gui work.final_exam_testbench -L altera_mf_ver -L altera_ver -L cycloneive_ver 
+# Start time: 10:58:54 on Dec 11,2022
+# Loading work.final_exam_testbench
+# Loading work.microprocessor
+# Loading work.hard_block
+# Loading cycloneive_ver.cycloneive_io_obuf
+# Loading cycloneive_ver.cycloneive_io_ibuf
+# Loading cycloneive_ver.cycloneive_clkctrl
+# Loading cycloneive_ver.cycloneive_mux41
+# Loading cycloneive_ver.cycloneive_ena_reg
+# Loading altera_ver.dffeas
+# Loading cycloneive_ver.cycloneive_lcell_comb
+# Loading cycloneive_ver.cycloneive_ram_block
+# Loading cycloneive_ver.cycloneive_ram_register
+# Loading cycloneive_ver.cycloneive_ram_pulse_generator
+# SDF 2020.1 Compiler 2020.02 Feb 28 2020
+# 
+# Loading instances from microprocessor_v.sdo
+# Loading altera_ver.PRIM_GDFF_LOW
+# Loading timing data from microprocessor_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench File: C:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim/final_exam_test_bench.v
+do final_preamble_wave.do
+run -all
+# ** Error: $hold( posedge clk &&& reset:2713 ps, d:2777 ps, 222 ps );
+#    Time: 2777 ps  Iteration: 0  Process: /final_exam_testbench/micro_1/\prog_mem|altsyncram_component|auto_generated|ram_block1a0 /addr_a_register/#Hold# File: $MODEL_TECH/../altera/verilog/src/cycloneive_atoms.v Line: 4543
+# ** Error: $hold( posedge clk &&& reset:2713 ps, d:2848 ps, 222 ps );
+#    Time: 2848 ps  Iteration: 0  Process: /final_exam_testbench/micro_1/\prog_mem|altsyncram_component|auto_generated|ram_block1a0 /addr_a_register/#Hold# File: $MODEL_TECH/../altera/verilog/src/cycloneive_atoms.v Line: 4543
+# ** Error: $hold( posedge clk &&& reset:2703 ps, d[0]:2880 ps, 222 ps );
+#    Time: 2880 ps  Iteration: 0  Process: /final_exam_testbench/micro_1/\data_mem|altsyncram_component|auto_generated|ram_block1a0 /we_a_register/#Hold# File: $MODEL_TECH/../altera/verilog/src/cycloneive_atoms.v Line: 4543
+#    
+# Accumulator output is 90eb for seed aa at time 310 us
+#    
+# Accumulator output is 90eb for seed aa at time 630 us
+#    
+# Warning:  exam dependent seed is 8'HFF, which is not normally used in an exam. 
+# Accumulator output = 1f5f for exam dependent seed ff at time 950 us
+#    
+#    
+# ** Note: $stop    : C:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim/final_exam_test_bench.v(28)
+#    Time: 960 us  Iteration: 0  Instance: /final_exam_testbench
+# Break in Module final_exam_testbench at C:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim/final_exam_test_bench.v line 28
+# Compile of microprocessor.vo was successful.
+# Compile of final_exam_test_bench.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of microprocessor.vo was successful.
+# Compile of final_exam_test_bench.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of microprocessor.vo was successful.
+# Compile of final_exam_test_bench.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.final_exam_testbench
+# Loading work.microprocessor
+# Loading work.hard_block
+# SDF 2020.1 Compiler 2020.02 Feb 28 2020
+# 
+# Loading instances from microprocessor_v.sdo
+# Loading timing data from microprocessor_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /final_exam_testbench File: C:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim/final_exam_test_bench.v
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Error: $hold( posedge clk &&& reset:2709 ps, d[0]:2764 ps, 222 ps );
+#    Time: 2764 ps  Iteration: 1  Process: /final_exam_testbench/micro_1/\data_mem|altsyncram_component|auto_generated|ram_block1a0 /we_a_register/#Hold# File: $MODEL_TECH/../altera/verilog/src/cycloneive_atoms.v Line: 4543
+# ** Error: $hold( posedge clk &&& reset:2713 ps, d:2798 ps, 222 ps );
+#    Time: 2798 ps  Iteration: 0  Process: /final_exam_testbench/micro_1/\prog_mem|altsyncram_component|auto_generated|ram_block1a0 /addr_a_register/#Hold# File: $MODEL_TECH/../altera/verilog/src/cycloneive_atoms.v Line: 4543
+# ** Error: $hold( posedge clk &&& reset:2713 ps, d:2831 ps, 222 ps );
+#    Time: 2831 ps  Iteration: 0  Process: /final_exam_testbench/micro_1/\prog_mem|altsyncram_component|auto_generated|ram_block1a0 /addr_a_register/#Hold# File: $MODEL_TECH/../altera/verilog/src/cycloneive_atoms.v Line: 4543
+#    
+# Accumulator output is 4463 for seed aa at time 310 us
+#    
+# Accumulator output is 4463 for seed aa at time 630 us
+#    
+# Warning:  exam dependent seed is 8'HFF, which is not normally used in an exam. 
+# Accumulator output = 75a2 for exam dependent seed ff at time 950 us
+#    
+#    
+# ** Note: $stop    : C:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim/final_exam_test_bench.v(28)
+#    Time: 960 us  Iteration: 0  Instance: /final_exam_testbench
+# Break in Module final_exam_testbench at C:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim/final_exam_test_bench.v line 28
+# Break key hit
+# Break key hit
+quit -sim
+# End time: 11:16:46 on Dec 11,2022, Elapsed time: 0:17:52
+# Errors: 3, Warnings: 1
