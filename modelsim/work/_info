@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vfinal_exam_testbench
+Z0 !s110 1670778306
+!i10b 1
+!s100 23WD7`Jmd35>SMz=hX=:71
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IDH9Eg1W1J5eWo[62VJHC<2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim
+w1670164463
+8C:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim/final_exam_test_bench.v
+FC:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim/final_exam_test_bench.v
+!i122 273
+L0 2 144
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1670778306.000000
+!s107 C:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim/final_exam_test_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim/final_exam_test_bench.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vhard_block
+R0
+!i10b 1
+!s100 ;UAW_T:[i9aCTz70Nd1<M0
+R1
+InMO:;AEk?Ld>]J5a[5KDb1
+R2
+R3
+Z8 w1670778270
+Z9 8C:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim/microprocessor.vo
+Z10 FC:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim/microprocessor.vo
+!i122 272
+L0 6452 34
+R4
+r1
+!s85 0
+31
+R5
+Z11 !s107 C:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim/microprocessor.vo|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nandi/OneDrive - University of Saskatchewan/My University Data/THIRD YEAR/FALL-WINTER/FALL/CMEs/CME 341/Assignments/Assignment 10/simulation/modelsim/microprocessor.vo|
+!i113 1
+R6
+R7
+vmicroprocessor
+R0
+!i10b 1
+!s100 9K;N[>1P:38=GRPX>TjQM1
+R1
+ImcKRLoN5eNNHnjZa2<?[f3
+R2
+R3
+R8
+R9
+R10
+!i122 272
+L0 32 6419
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!i113 1
+R6
+R7
